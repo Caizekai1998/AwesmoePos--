@@ -18,5 +18,6 @@ npm run serve
     Elemet
     axios
     
+    
 效果展示：
-![ad](https://rcyan.github.io/WeChat-applet/images/ad1.jpg)
+![ad](https://github.com/Caizekai1998/AwesmoePos--/blob/master/1.PNG)
