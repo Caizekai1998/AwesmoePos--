@@ -21,3 +21,6 @@ npm run serve
     
 效果展示：
 ![ad](https://github.com/Caizekai1998/AwesmoePos--/blob/master/1.PNG)
+![ad](https://github.com/Caizekai1998/AwesmoePos--/blob/master/2.png)
+![ad](https://github.com/Caizekai1998/AwesmoePos--/blob/master/3.png)
+
