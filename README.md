@@ -1,4 +1,4 @@
-# project-name
+# AwesmoePos-快餐店收银系统
 
 ## Project setup
 ```
@@ -10,15 +10,12 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+主要技术栈列表：
+    Vue
+    Vue-cli3
+    Router
+    Node
+    Elemet
+    axios
+    
+    
